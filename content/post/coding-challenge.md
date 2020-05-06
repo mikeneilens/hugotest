@@ -1,9 +1,9 @@
 ---
-title: "Training topic 1-1"
+title: "Coding challenge community"
 date: 2020-05-05T20:57:32+01:00
-categories: ["Training","QA"]
+categories: ["Communities","dev"]
 tags:
-  - "QA"
+  - "Refactoring"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Test site"
+title = "Demo site"
 theme = "mainroad"
 [Params.sidebar]
 home = "right" # Configure layout for home page

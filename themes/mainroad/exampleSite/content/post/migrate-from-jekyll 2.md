@@ -6,11 +6,6 @@ menu:
   main:
     name: Jekyll migration
     weight: 10
-sidebar: "right" # Enable sidebar (on the right side) per page
-widgets: # Enable sidebar widgets in given order per page
-  - "search"
-  - "recent"
-  - "taglist"
 ---
 
 ## Move static content to `static`

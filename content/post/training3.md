@@ -1,7 +1,6 @@
 ---
 title: "Training topic 1-3"
 date: 2020-05-05T20:57:32+01:00
-draft: true
 categories:
   - "Training"
 tags:

@@ -1,7 +1,6 @@
 ---
 title: "Training4"
-date: 2020-05-05T21:28:55+01:00
-draft: true
+date: 2020-05-04T21:28:55+01:00
 categories:
   - "Training"
 tags:
