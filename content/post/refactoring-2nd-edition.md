@@ -2,8 +2,7 @@
 title: "Refactoring 2nd Edition"
 date: 2020-05-05T20:57:32+01:00
 categories: ["Communities"]
-tags:
-  - "Refactoring"
+tags: ["Refactoring"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

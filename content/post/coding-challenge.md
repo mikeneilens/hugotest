@@ -2,8 +2,7 @@
 title: "Coding challenge community"
 date: 2020-05-05T20:57:32+01:00
 categories: ["Communities","dev"]
-tags:
-  - "Refactoring"
+tags: ["Refactoring"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -8,4 +8,7 @@ list = "left"  # Configure layout for list pages
 single = false # Configure layout for single pages
 # Enable widgets in given order
 widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  training_type = "training_types"

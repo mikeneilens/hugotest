@@ -20,6 +20,8 @@ The metadata can include taxonomy information such as what categories the page b
 
 I've set some categories to appear on the menu bar. If new categories are added to pages as metadata they will be listed on the site under directory /categories/ automatically. Tags are listed automatically on the site under directory /tags/.
 
+I've also set up a custom taxonomy called training_types so that the kind of training (e.g. "Programming Languages" or "Business Technology Fluency") can have its own listing page. Training types appear on the site under directory /training_types/.
+
 Hugo allows themes to control how the content is laid out. This project uses [mainroad](https://themes.gohugo.io/mainroad/) theme.
 
 In this demo the hugo project is stored in github and deployed using a guthub site. To test changes locally, install hugo and clone the repo. You can the run the site locally by entering `hugo server` when in the directory containing the config.toml file (root of the project in this case). 
