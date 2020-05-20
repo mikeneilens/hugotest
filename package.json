@@ -1,0 +1,24 @@
+{
+  "name": "hugotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hugo-lunr": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "hugo-lunr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeneilens/hugotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeneilens/hugotest/issues"
+  },
+  "homepage": "https://github.com/mikeneilens/hugotest#readme"
+}
